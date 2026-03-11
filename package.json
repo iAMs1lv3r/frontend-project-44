@@ -1,0 +1,14 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "brain-games",
+  "license": "ISC",
+  "author": "iAMs1lv3r",
+  "type": "module",
+
+  "bin": 
+  {
+    "brain-games": "bin/brain-games.js"
+  }
+
+}
