@@ -5,10 +5,17 @@
   "license": "ISC",
   "author": "iAMs1lv3r",
   "type": "module",
-
-  "bin": 
-  {
-    "brain-games": "bin/brain-games.js"
+  "bin": {
+    "brain-games": "bin/brain-games.js",
+    "brain-even" : "bin/brain-even.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.0.3",
+    "globals": "^17.4.0"
   }
-
 }
