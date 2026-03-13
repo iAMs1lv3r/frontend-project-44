@@ -4,6 +4,7 @@ import readlineSync from 'readline-sync'
 
 export default function progressionGame() {
   let playerName = greetPlayer()
+  console.log('What number is missing in the progression?')
   for (let i = 0; i < 3; i++) {
     let progressionLength = getRandomInt(6) + 5 // 5-10
     let missingIndex = getRandomInt(progressionLength)

@@ -2,7 +2,7 @@ import greetPlayer from './cli.js'
 import readlineSync from 'readline-sync'
 import { getRandomInt, resolveGame } from './lib.js'
 
-const calcGame = () => {
+export default function calcGame() {
   let playerName = greetPlayer()
   for (let i = 0; i < 3; i++) {
     let firstInt = getRandomInt(21)
@@ -25,6 +25,7 @@ const calcGame = () => {
         break
     }
     let playerAnswer = readlineSync.question(`Question: ${firstInt} ${operation} ${secondInt}\nYour answer: `)
+
     let isPlayerCorrect = resolveGame(playerAnswer, correctAnswer, playerName)
     if (isPlayerCorrect === false) {
       return
@@ -32,5 +33,3 @@ const calcGame = () => {
   }
   console.log(`Congratulations, ${playerName}!`)
 }
-
-export default calcGame
