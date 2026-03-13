@@ -22,23 +22,27 @@ brain-games
 [![asciicast](https://asciinema.org/a/RsXnzgh4SkvzP0xD.svg)](https://asciinema.org/a/RsXnzgh4SkvzP0xD)
 
 ## Games:
-
+#### Brain Even:
 ```
 brain-even
 ```
 [![asciicast](https://asciinema.org/a/O4XRnXJgdRzgOsF7.svg)](https://asciinema.org/a/O4XRnXJgdRzgOsF7)
+#### Brain Calc:
 ```
 brain-calc
 ```
 [![asciicast](https://asciinema.org/a/Ugt0J8svmhSI0E6F.svg)](https://asciinema.org/a/Ugt0J8svmhSI0E6F)
+#### Brain GCD:
 ```
 brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/G5M5yxFBwTr2exLf.svg)](https://asciinema.org/a/G5M5yxFBwTr2exLf)
+#### Brain Progression:
 ```
 brain-progression
 ```
 [![asciicast](https://asciinema.org/a/f0PqocWtLAgJrbVC.svg)](https://asciinema.org/a/f0PqocWtLAgJrbVC)
+#### Brain Prime:
 ```
 brain-prime
 ```
