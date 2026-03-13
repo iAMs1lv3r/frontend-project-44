@@ -19,14 +19,14 @@ To run the game use the following commands:
 brain-games
 ```
 
-<script src="https://asciinema.org/a/RsXnzgh4SkvzP0xD.js" id="asciicast-RsXnzgh4SkvzP0xD" async="true"></script>
+[![asciicast](https://asciinema.org/a/RsXnzgh4SkvzP0xD.svg)](https://asciinema.org/a/RsXnzgh4SkvzP0xD)
 
 #Games:
 
 ```
 brain-even
 ```
-<script src="https://asciinema.org/a/O4XRnXJgdRzgOsF7.js" id="asciicast-O4XRnXJgdRzgOsF7" async="true"></script>
+<a href="https://asciinema.org/a/O4XRnXJgdRzgOsF7" target="_blank"><img src="https://asciinema.org/a/O4XRnXJgdRzgOsF7.svg" /></a>
 ```
 brain-calc
 ```
